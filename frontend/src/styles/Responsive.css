@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .header, .footer {
+      padding: 10px;
+    }
+  
+    .form {
+      padding: 10px;
+    }
+  
+    .form label {
+      display: block;
+      margin-bottom: 8px;
+    }
+  }
+  

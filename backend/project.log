@@ -1,0 +1,14 @@
+07:47:18.452 INFO  Login attempt: vikas 
+07:47:59.795 INFO  Register attempt: rico@gmail.com 
+08:08:24.029 INFO  Register attempt: 11111@gmail.com 
+08:13:41.761 INFO  Register attempt: undefined 
+08:15:36.280 INFO  Register attempt: test@example.com 
+08:18:01.129 INFO  Login attempt: test@example.com 
+08:18:01.993 INFO  Login attempt: test@example.com 
+08:18:15.325 INFO  Login attempt: test@example.com 
+08:18:15.859 INFO  Login attempt: test@example.com 
+08:27:26.558 INFO  Login attempt: test@example.com 
+08:29:12.172 INFO  Register attempt: vikas@gmail.com 
+08:36:09.085 INFO  Login attempt: test@example.com 
+08:54:25.359 INFO  Register attempt: 3hours@gmail.com 
+08:54:44.988 INFO  Register attempt: undefined 
